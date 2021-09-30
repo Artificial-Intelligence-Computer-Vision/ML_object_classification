@@ -1,0 +1,21 @@
+//Transfer Learning trained on CIFAR-10 on all validation sets
+sofa_val.txt: Precision:94.22977846470891
+car_val.txt: Precision:89.55864674566375
+boat_val.txt: Precision:95.6723338485317
+tvmonitor_val.txt: Precision:94.91670959986261
+chair_val.txt: Precision:88.9747552807831
+dog_val.txt: Precision:88.64846299158509
+motorbike_val.txt: Precision:95.50060106474326
+bottle_val.txt: Precision:93.66306027820711
+cow_val.txt: Precision:97.35531512965825
+train_val.txt: Precision:95.2773484458183
+sheep_val.txt: Precision:97.33814185127942
+aeroplane_val.txt: Precision:94.0236991241628
+cat_val.txt: Precision:90.65773656190966
+pottedplant_val.txt: Precision:95.20865533230294
+person_val.txt: Precision:61.66924265842349
+horse_val.txt: Precision:95.79254679718359
+diningtable_val.txt: Precision:94.45303108363386
+bird_val.txt: Precision:93.5771938863129
+bicycle_val.txt: Precision:95.01974927013566
+bus_val.txt: Precision:96.37643826206423
